@@ -1,6 +1,33 @@
 # ECO_s394C_Summer2024
 This repository contains the core knowledge notes for the course ECO_s394C_Summer2024.
 
+* [Functions of Several Variables](#functions-of-several-variables)
+  + [Implicit Differentiation](#implicit-differentiation)
+  + [Homogeneity](#homogeneity)
+  + [Economics Application](#economics-application)
+    - [Marginal Product](#marginal-product)
+    - [Elasticity](#elasticity)
+    - [Tax](#tax)
+* [Multivariable Optimization](#multivariable-optimization)
+  + [Extreme Value Theorem](#extreme-value-theorem)
+  + [FOC's](#foc-s)
+  + [SOC's TEST for Local Extreme](#soc-s-test-for-local-extreme)
+  + [Lagrange Multipliers](#lagrange-multipliers)
+  + [KKT](#kkt)
+    - [General KKT](#general-kkt)
+    - [Nonnegative KKT](#nonnegative-kkt)
+  + [Envelope Theorem](#envelope-theorem)
+* [Algebra](#algebra)
+  + [Vector](#vector)
+  + [Matrix](#matrix)
+    - [Mutiple](#mutiple)
+    - [Transposition](#transposition)
+    - [Inverse](#inverse)
+      * [How to Calculate Inverse?](#how-to-calculate-inverse-)
+  + [Determinant](#determinant)
+  + [Cramer's Rule](#cramer-s-rule)
+  + [Least Square Regression](#least-square-regression)
+
 ## Functions of Several Variables
 
 ### Implicit Differentiation
