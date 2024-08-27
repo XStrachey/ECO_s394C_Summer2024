@@ -74,7 +74,7 @@ If the function is continuous and feasible region is compact, then given the ext
 
 ### FOC's
 
-$f_x'=0$ and $f_y'=0$ are neccessary conditions of the points where we reach the maximum/minimum values.
+$f_x'=0$ and $f_y'=0$ are **neccessary** conditions of the points where we reach the maximum/minimum values.
 
 Let's denote $A=f_{xx}''$, $B=f_{xy}''$, $C=f_{yy}''$, and then we have:
 
@@ -89,6 +89,8 @@ Let's denote $A=f_{xx}''$, $B=f_{xy}''$, $C=f_{yy}''$, and then we have:
 If (i) or (ii) everywhere, then $f$ is concave or convex global.
 
 ### SOC's TEST for Local Extreme
+
+SOC's TEST is a **sufficient** condition of local extreme testing.
 
 $A<0,AC-B^2>0\implies\text{strictly local maximum}$
 
