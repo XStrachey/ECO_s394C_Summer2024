@@ -164,7 +164,7 @@ B.
 
   (i) $L_x'\leq0,\text{ with }=0,\text{ if }x>0$
 
-  (ii) $L_x'\leq0,\text{ with }=0,\text{ if }x>0$
+  (ii) $L_y'\leq0,\text{ with }=0,\text{ if }y>0$
 
 C. $\lambda\geq0,\text{ and }=0,\text{ if }g(x,y)<c$
 
